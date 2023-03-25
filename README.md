@@ -22,9 +22,19 @@ to learn, explore and create in the field of computer science.
 
 #
 #
-<h3>My Status</h3>
+<h3>Account Status</h3>
 
 
 
 
 ![Beimnet's GitHub stats](https://github-readme-stats.vercel.app/api?username=Beimnet27&show_icons=true&theme=midnight-purple)
+
+
+
+<hr/>
+<h3>Connect with me</h3>
+
+
+#
+
+<a link href="https://www.linkedin.com/in/beimnet-genene-178155225"><img align="left" alt="Python" width="120px" style="padding-right:10px; color:blue;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" /></a>
