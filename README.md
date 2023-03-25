@@ -21,10 +21,10 @@ to learn, explore and create in the field of computer science.
 
 
 #
+#
 <h3>My Status</h3>
 
 
 
-#
 
 ![Beimnet's GitHub stats](https://github-readme-stats.vercel.app/api?username=Beimnet27&show_icons=true&theme=midnight-purple)
