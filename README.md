@@ -1,5 +1,5 @@
 # Beimnet-Genene
-Welcome to my Github account! My name is Beimnet, and I'm a third year computer science student with a passion for innovation and
+Welcome to my Github account! My name is Beimnet, and I'm a third year computer science student with a deep passion for innovation and make Algorithmic
 problem solving. With every line of code I write, I strive for excellence and creativity. My ultimate goal is not only develop efficient
 and reliable software, but to also contribute to the ever-growing technological advancements in the world. Follow me on my journey as I continue
 to learn, explore and create in the field of computer science.
@@ -38,7 +38,7 @@ to learn, explore and create in the field of computer science.
 
 
 
-
+#
 <h3>Account Status</h3>
 
 
