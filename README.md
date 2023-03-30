@@ -46,11 +46,12 @@ to learn, explore and create in the field of computer science.
 
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Beimnet27&theme=midnight-purple)
 ![Beimnet's GitHub stats](https://github-readme-stats.vercel.app/api?username=Beimnet27&show_icons=true&theme=midnight-purple)
 
 
 
-<hr/>
+#
 <h3>Connect with me</h3>
 
 
