@@ -13,6 +13,7 @@ to learn, explore and create in the field of computer science.
 <img align="left" alt="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img align="left" alt="Python" width="40px" style="padding-right:10px;" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img align="left" alt="Python" width="40px" style="padding-right:10px;" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+<img align="left" alt="Python" width="40px" style="padding-right:10px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbrUInra9w4TJB3LQmXY6JrBQ0Mgnc-Pkwfz8o7ahRhg&s"/>
 
 
 
@@ -58,3 +59,4 @@ to learn, explore and create in the field of computer science.
 #
 
 <a link href="https://www.linkedin.com/in/beimnet-genene-178155225"><img align="left" alt="Python" width="120px" style="padding-right:10px; color:blue;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" /></a>
+
