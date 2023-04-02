@@ -29,6 +29,7 @@ to learn, explore and create in the field of computer science.
 
 
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Beimnet27&theme=onedark)]
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Beimnet27&theme=midnight-purple)
 ![Beimnet's GitHub stats](https://github-readme-stats.vercel.app/api?username=Beimnet27&show_icons=true&theme=midnight-purple)
