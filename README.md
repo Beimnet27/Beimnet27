@@ -27,7 +27,7 @@ to learn, explore and create in the field of computer science.
 #
 <h3>Account Status</h3>
 
-
+![views](https://komarev.com/ghpvc/?username=Beimnet27-plo&label=Profile%20views&color=0e75b6&)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Beimnet27&theme=onedark)
 
