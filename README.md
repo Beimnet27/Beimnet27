@@ -1,47 +1,80 @@
-# Beimnet-Genene
-Welcome to my Github account! My name is Beimnet, and I'm a third year computer science student with a deep passion for innovation and make Algorithmic
-problem solving. With every line of code I write, I strive for excellence and creativity. My ultimate goal is not only develop efficient
-and reliable software, but to also contribute to the ever-growing technological advancements in the world. Follow me on my journey as I continue
-to learn, explore and create in the field of computer science.
+<h1 align="center" style="color:#ffffff;">Beimnet Genene</h1>
+<p align="center" style="color:#dcdcdc;">
+    Welcome to my GitHub!  
+    <br />
+    I’m a <strong>4th-year Computer Science student</strong> and a <strong>MERN stack developer</strong>, passionate about crafting innovative digital solutions.
+</p>
 
-<hr style="background-color: white;"/>
-<h3>Languages</h3>
-<img align="left" alt="Python" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img align="left" alt="java" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-<img align="left" alt="javaScript" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
- <img align="left" alt="c++" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /><br/><br/>
-<img align="left" alt="html" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img align="left" alt="css" width="50px" style="padding-right:10px;" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<img align="left" alt="bootstrap" width="50px" style="padding-right:10px;" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-<img align="left" alt="ajax" width="50px" style="padding-right:10px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbrUInra9w4TJB3LQmXY6JrBQ0Mgnc-Pkwfz8o7ahRhg&s"/>
-<img align="left" alt="Sql" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-<br/><br/>
-<h3>Tools</h3>
-<img align="left" alt="pycharm" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
-<img align="left" alt="vscode" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-<img align="left" alt="devicon" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" />
-<img align="left" alt="ubuntu" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
-<img align="left" alt="git" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<br/><br/>
+<hr style="border: 1px solid #4b4b4b; margin-top: 20px; margin-bottom: 20px;">
 
+<h2 style="color:#ffffff;">🌟 About Me</h2>
+<p style="color:#dcdcdc;">
+    As a developer, I specialize in creating responsive <strong>web applications</strong> and <strong>Telegram Mini Apps</strong>, with expertise in 
+    <strong>API integration</strong> and <strong>TON blockchain crypto payment systems</strong>. My approach blends creativity and efficiency to deliver scalable, user-focused solutions.  
+    <br /><br />
+    Follow my journey as I explore, innovate, and contribute to the tech landscape. Let’s build a better digital world together!
+</p>
 
-#
-<h3>Account Status</h3>
+<hr style="border: 1px solid #4b4b4b; margin-top: 20px; margin-bottom: 20px;">
 
-![views](https://komarev.com/ghpvc/?username=Beimnet27-plo&label=Profile%20views&color=0e75b6&)
+<h2 style="color:#ffffff;">🛠️ Languages & Frameworks</h2>
+<p align="left">
+  <img alt="React" width="50px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img alt="Python" width="50px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img alt="Java" width="50px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img alt="JavaScript" width="50px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img alt="C++" width="50px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+  <img alt="HTML5" width="50px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img alt="CSS3" width="50px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img alt="Bootstrap" width="50px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+  <img alt="MySQL" width="50px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  <img alt="MongoDB" width="50px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
+  <img alt="Node.js" width="50px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img alt="Express.js" width="50px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+</p>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Beimnet27&theme=onedark)
+<hr style="border: 1px solid #4b4b4b; margin-top: 20px; margin-bottom: 20px;">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Beimnet27&theme=midnight-purple)
-![Beimnet's GitHub stats](https://github-readme-stats.vercel.app/api?username=Beimnet27&show_icons=true&theme=midnight-purple)
+<h2 style="color:#ffffff;">⚙️ Tools & Platforms</h2>
+<p align="left">
+  <img alt="VS Code" width="40px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  <img alt="Git" width="40px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img alt="Firebase" width="40px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" />
+  <img alt="Ubuntu" width="40px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
+  <img alt="Figma" width="40px" style="margin-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+</p>
 
+<hr style="border: 1px solid #4b4b4b; margin-top: 20px; margin-bottom: 20px;">
 
+<h2 style="color:#ffffff;">📊 GitHub Stats</h2>
+<p align="center">
+  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=Beimnet27-plo&label=Profile%20views&color=blue&style=flat" />
+  <br />
+  <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=Beimnet27&theme=onedark" />
+</p>
 
-#
-<h3>Connect with me</h3>
+<p align="center">
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beimnet27&theme=dark&layout=compact" />
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Beimnet27&show_icons=true&theme=dark" />
+</p>
 
+<hr style="border: 1px solid #4b4b4b; margin-top: 20px; margin-bottom: 20px;">
 
-#
+<h2 style="color:#ffffff;">🚀 Let's Connect</h2>
+<p align="center" style="color:#dcdcdc;">
+    Feel free to reach out to collaborate on exciting projects or discuss ideas!  
+</p>
 
-<a link href="https://www.linkedin.com/in/beimnet-genene-178155225"><img align="left" alt="Python" width="120px" style="padding-right:10px; color:blue;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" /></a>
-
+<p align="center">
+  <a href="https://linkedin.com/in/beimnet-genene-178155225?" target="_blank">
+    <img alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://x.com/GeneneBeim16938" target="_blank">
+    <img alt="Twitter" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:beimnetgenene27@gmail.com">
+    <img alt="Email" width="30px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" />
+  </a>
+</p>
