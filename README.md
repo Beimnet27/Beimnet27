@@ -77,4 +77,5 @@
   <a href="mailto:beimnetgenene27@gmail.com">
     <img alt="Email" width="30px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" />
   </a>
+    <a href=""><img src="https://img.shields.io/github/stars/sanjay-kv?label=Star%20Gazers&style=social"></a>
 </p>
